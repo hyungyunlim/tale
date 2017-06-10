@@ -4,12 +4,11 @@ layout: default
 
 <div class="post">
   <div class="post-info">
-    <span>Written by&nbsp;</span>{{ page.author }}
-
     {% if page.date %}
-      <br>
-      <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      <time datetime="{{ page.date }}">{{ page.date | date: "%Y년 %m월 %d일" }}</time>
     {% endif %}
+  </br>
+    <span>{{ page.author }}&nbsp;</span>
   </div>
 
   <h1 class="post-title">{{ page.title }}</h1>

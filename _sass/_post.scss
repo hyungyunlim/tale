@@ -3,9 +3,10 @@
 
   &-info {
     color: $default-tint;
-    font-family: $palatino;
-    letter-spacing: .5px;
+    font-family: $nanumgothic;
+    //letter-spacing: 1px;
     text-align: center;
+    font-size: .75rem;
 
     span {
       font-style: italic;
@@ -14,8 +15,8 @@
 
   &-title {
     color: $default-shade;
-    font-family: $sans-font;
-    font-size: 4rem;
+    font-family: $nanumgothic;
+    font-size: 2rem;
     margin: 1rem 0;
     text-align: center;
   }
@@ -29,6 +30,7 @@
 
   p {
     margin: 0 0 1rem;
+    letter-spacing: 1px;
     text-align: justify;
   }
 

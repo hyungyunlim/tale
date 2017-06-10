@@ -1,6 +1,6 @@
 .container {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 700px;
   width: 80%;
 }
 
@@ -8,7 +8,7 @@ main,
 footer,
 .nav-container {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 700px;
   width: 80%;
 }
 
@@ -61,11 +61,11 @@ footer,
 
   a {
     color: $default-color;
-    font-family: $sans-font;
+    font-family: $nanumgothic;
   }
 }
 
-@media (min-width: 600px) {
+@media (min-width: 500px) {
   .nav {
     &-container {
       text-align: left;

@@ -17,15 +17,16 @@
 
   &-time {
     color: $default-tint;
-    font-family: $palatino;
-    letter-spacing: .5px;
+    font-family: $nanumgothic;
+    font-size:0.75rem
+    //letter-spacing: 1px;
   }
 
   &-title {
     color: $default-shade;
     display: block;
-    font-family: $sans-font;
-    font-size: 2rem;
+    font-family: $nanumgothic;
+    font-size: 1.5rem;
     font-weight: 700;
     margin: .5rem 0;
   }
