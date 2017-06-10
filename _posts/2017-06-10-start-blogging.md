@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "새로운 블로그"
-author: "Jun"
+author: "junlim"
 tags: github-pages blog
 ---
 
