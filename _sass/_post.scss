@@ -3,7 +3,7 @@
 
   &-info {
     color: $default-tint;
-    font-family: $nanumgothic;
+    font-family: $notosans;
     //letter-spacing: 1px;
     text-align: center;
     font-size: .75rem;
@@ -15,8 +15,8 @@
 
   &-title {
     color: $default-shade;
-    font-family: $nanumgothic;
-    font-size: 2rem;
+    font-family: $notosans;
+    font-size: 1.75rem;
     margin: 1rem 0;
     text-align: center;
   }
@@ -30,7 +30,6 @@
 
   p {
     margin: 0 0 1rem;
-    letter-spacing: 1px;
     text-align: justify;
   }
 

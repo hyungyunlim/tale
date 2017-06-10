@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Junlim 기술 블로그
+title:          junlim's blog
 paginate:       5
 baseurl:        ""
 url:            "https://hyungyunlim.github.io"
@@ -29,3 +29,10 @@ github:
 # Gems
 gems:
   - jekyll-paginate
+  - jekyll-tagging
+
+# Tag
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_feed_layout: tag_feed
+tag_feed_dir: tag

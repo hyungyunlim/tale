@@ -2,6 +2,7 @@
 layout: post
 title:  "새로운 블로그"
 author: "Jun"
+tags: github-pages blog
 ---
 
 깃헙페이지를 통해 블로깅을 시작했다. 많은 블로그를 찾아 돌아다녔고, 워드프레스로 시작하려고 했다.  호스팅을 하는 비용, 도메인을 구입하는 비용을 생각하지 쓰지 않을것 같다는 생각을 하던차에 깃헙페이지를 알게되었다.
@@ -16,5 +17,3 @@ author: "Jun"
 - [완전 초보를 위한 깃허브](https://nolboo.kim/blog/2013/10/06/github-for-beginner/) - 그래도 쉬움
 
 위 두 글들만 어느정도 읽어도 이해가 간다.
-
-#Github #Git
