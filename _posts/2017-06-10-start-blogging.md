@@ -84,14 +84,14 @@ tags: github github-pages jekyll blog
 	- 이후 블로그에 커스터마이징 한내용
 		- 소개글 작성
 		- [Tale](https://chesterhow.github.io/tale/) 테마 적용
-		- 본고딕[^1] - 구글웹폰트 통해 적용
+		- 본고딕:구글웹폰트 통해 적용
 		- 블로그 방문 통계확인을 위한 구글어날리틱스(Google Analytics) 적용
 		- 페이스북 댓글 적용
 		- 아카이브 페이지 추가 및 적용
+		- 동영상 아이프레임 크기조정(fluidvid.js)
 	- 앞으로 적용해야 할 부분
 		- 태그
 		- 각주(bigfoot.js)
-		- 반응형 동영상 (fluidvid.js)
 
 위 모든것을 이해하고, 셋업하고, 커스터마이징 하는데 반나절에서 하루정도가 걸린 것 같다.
 
@@ -114,5 +114,3 @@ tags: github github-pages jekyll blog
 - 아주 약간의 개발지식만 있다면 비개발자도 충분히 운영할 수 있는 블로그다.
 - 개인적으로 깃허브에 대한 지식을 얻을 수 있어서 좋았다. 최근 대부분의 개발프로젝트가 깃허브를 통해서 진행되고 있다고 해도 무방한데, 이번과 같은 기회가 아니었다면 제대로 학습할 기회가 없었을 것 같다.
 - 이제 꾸준히 글을 써야겠다.
-
-[^1]: 구글, 어도비가 협력하여 만든 폰트. [The Typekit Blog | 본고딕(Source Han Sans) 소개: 오픈 소스 한중일 통합 서체](https://blog.typekit.com/alternate/source-han-sans-kor/)
