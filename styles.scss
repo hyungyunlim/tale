@@ -3,7 +3,6 @@
 # only main files contain this front matter, not partials.
 ---
 @import 'variables';
-@import "bigfoot-default";
 @import 'base';
 @import 'code';
 @import 'post';
@@ -11,3 +10,4 @@
 @import 'layout';
 @import 'pagination';
 @import 'catalogue';
+@import "bigfoot-number"
