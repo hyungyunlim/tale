@@ -4,6 +4,7 @@ title: "소개"
 author: "junlim"
 permalink: /about/
 ---
+
 ### 생계
 현재 테크쪽 관련 계통에서 일하고 있습니다. 테크 계통에서 개발을 제외한 여러 잡무를 하며 생계를 이어가고 있습니다. 개발자는 아니지만 관심이 많아서 라스베리파이, 루비 등을 따로 배우기도 하고, 주변에 개발자도 많은 편입니다. 디자이너도 아니지만, 스케치와 제플린 같은 프로그램을 꽤 다룰 줄도 압니다.
 
@@ -25,3 +26,9 @@ permalink: /about/
 - 사실 지난  2-3년간은 블로깅을 따로 하고 싶은 생각도 없었고, 하지도 않았습니다. 글이라는게 어느분야를 깊이 파지 않으면 뭔가 나오지 않는데 사실 아무것도 모른다는 생각이 많이 들었어요.
 - 너무 가볍지도, 무겁지도 않은 수준의 이야기를 부담없이 써내려갈 생각입니다. 너무 의식의 흐름에 따라 쓰게 될게 걱정이긴 한데 꾸준히 하는게 중요하겠죠.
 - 사실 방금 떠오른 생각인데, 왜 Jekyll을 선택하게 되었는지를 첫번째 글로 하면 될것 같아요.
+
+<br>
+<div align="center">
+<div class="fb-follow" data-href="https://www.facebook.com/hyungyun.lim" data-layout="button_count" data-size="small" data-show-faces="true"></div>
+</div>
+<br>
