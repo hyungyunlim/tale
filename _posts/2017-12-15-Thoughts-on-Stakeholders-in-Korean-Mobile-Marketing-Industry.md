@@ -6,7 +6,7 @@ tags: mobilemarketing mobilead adtech
 ---
 (이 블로그에 있는 모든글에 해당하지만 현 직장과 관계가 없는 포스팅임을 미리 밝혀둔다)
 
-###1. 모바일 광고 생태계
+### 1. 모바일 광고 생태계
 지난번 글에서 광고계의 거시적인 흐름에 대해서 짚어봤다. 이번 글에서는 모바일 광고 생태계의 주체들, 주체들간의 관계, 측정과 분석, 매체시장에 대해서 다뤄보려고 한다. 지난번 글에서 썼듯이 사람들은 대부분 플랫폼사에 대해서는 잘 알고 있는 경우가 많다. 네이버, 카카오톡, 구글, 페이스북 등의 몇몇회사가 디지털 광고의 대부분 매출을 차지하고 있고 파급력도 상당하다. 조금 더 면밀히 들여다보면 생태계는 꽤 복잡하게 얽혀있다.
 
 ![모비스케이프]({{ site.url }}/images/mobiscape.png){: .center-image }
@@ -116,6 +116,6 @@ tags: mobilemarketing mobilead adtech
 ***
 
 [^1]: http://www.zdnet.co.kr/news/news_view.asp?artice_id=20170202185519
-[^2]: [Moving to a Local Selling Model | Facebook Newsroom](https://newsroom.fb.com/news/2017/12/moving-to-a-local-selling-model/)
-[^3]: [“구글, 세금 안낸다” 이해진 발언에 네이버-구글 ‘난타전’ : IT : 경제 : 뉴스 : 한겨레](http://www.hani.co.kr/arti/economy/it/817121.html)
-[^4]: [애플, 유럽연합에 백기… 세금 17조원 내기로 - 조선닷컴 - 경제 > IT](http://news.chosun.com/site/data/html_dir/2017/12/05/2017120502574.html?Dep0=flipboard)
+[^2]: https://newsroom.fb.com/news/2017/12/moving-to-a-local-selling-model/
+[^3]: http://www.hani.co.kr/arti/economy/it/817121.html
+[^4]: http://news.chosun.com/site/data/html_dir/2017/12/05/2017120502574.html
