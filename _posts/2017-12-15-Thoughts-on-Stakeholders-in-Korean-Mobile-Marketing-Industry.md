@@ -110,7 +110,7 @@ tags: mobilemarketing mobilead adtech
 
 ***
 
-[^1]: http://www.zdnet.co.kr/news/news_view.asp?artice_id=20170202185519
-[^2]: https://newsroom.fb.com/news/2017/12/moving-to-a-local-selling-model/
-[^3]: http://www.hani.co.kr/arti/economy/it/817121.html
-[^4]: http://news.chosun.com/site/data/html_dir/2017/12/05/2017120502574.html
+[^1]: [나스미디어, 작년 매출 699억원](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20170202185519)
+[^2]: [Moving to a Local Selling Model](https://newsroom.fb.com/news/2017/12/moving-to-a-local-selling-model/)
+[^3]: [네이버-구글 난타전](http://www.hani.co.kr/arti/economy/it/817121.html)
+[^4]: [애플, 유럽연합에 백기](http://news.chosun.com/site/data/html_dir/2017/12/05/2017120502574.html)
