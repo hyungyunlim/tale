@@ -1,4 +1,4 @@
-애드저스트---
+---
 layout: post
 title:  "모바일 광고의 측정과 분석, 그리고 그 한계 (Standards of Mobile Advertising and Limit)"
 author: "junlim"
