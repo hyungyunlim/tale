@@ -12,10 +12,6 @@ footer,
   width: 80%;
 }
 
-.fb-comments, .fb-comments > span, .fb-comments iframe[style] {
-  width:100% !important;
-}
-
 .nav {
   box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
@@ -65,7 +61,7 @@ footer,
 
   a {
     color: $default-color;
-    font-family: $notosans;
+    font-family: 'Noto Serif KR', sans-serif;
   }
 }
 

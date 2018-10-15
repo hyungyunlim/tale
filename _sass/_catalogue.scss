@@ -17,7 +17,7 @@
 
   &-time {
     color: $default-tint;
-    font-family: $notosans;
+    font-family: 'Noto Serif KR', sans-serif;
     font-size:0.75rem
     //letter-spacing: 1px;
   }
@@ -25,7 +25,7 @@
   &-title {
     color: $default-shade;
     display: block;
-    font-family: $notosans;
+    ffont-family: 'Noto Serif KR', sans-serif;
     font-size: 1.5rem;
     font-weight: 700;
     margin: .5rem 0;
