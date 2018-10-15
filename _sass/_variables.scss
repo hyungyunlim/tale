@@ -1,4 +1,4 @@
-$default-color: #555;
+$default-color: #191919;
 $default-shade: #353535;
 $default-tint: #aaa;
 $grey-1: #979797;
@@ -26,8 +26,4 @@ $code-color: #bf616a;
   -webkit-transition: $args;
      -moz-transition: $args;
           transition: $args;
-}
-
-.fb-comments {
-  max-width: 100%;
 }
