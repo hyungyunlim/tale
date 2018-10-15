@@ -40,7 +40,7 @@ tags: imgibble dam collaboration
 
 ### 런칭 및 비전
 
-{% youtube https://youtu.be/CdQly0hjXb8 %}
+{% youtube CdQly0hjXb8 %}
 
 초기 출시 버전에는 저희가 넣으려고 했던 모든 기능을 포함해서 출시하기에는 시간이 빠듯할 것 같습니다. 핵심적인 기능들 위주로 먼저 출시하고, 이후 우선순위에 따라서 기능을 추가해 나가려고 생각 중입니다. 저희 솔루션에 대해 궁금한 부분이 있으시거나 런칭 알림 신청하시려면 [이미지블 홈페이지](https://www.imgibble.com/?utm_source=Blog&utm_medium=Jun&utm_campaign=Post)에서 신청 부탁드려요.
 
