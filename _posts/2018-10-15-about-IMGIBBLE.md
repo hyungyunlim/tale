@@ -6,7 +6,6 @@ tags: imgibble dam collaboration
 ---
 저희가 이제 한 달/두 달 안에 런칭을 앞두고 있어 서비스에 대해 소개를 한번 드리려고 합니다.
 
-
 ### 이미지블의 시작
 
 ![이미지]({{ site.url }}/images/about_imgibble.png){: .center-image }
@@ -40,12 +39,12 @@ tags: imgibble dam collaboration
 
 <figure>
   <img data-action="zoom" src='{{ "/images/main_dashboard.png" | relative_url }}' alt='메인화면'>
-  <figcaption>로그인할 때 보이는 메인화면</figcaption>
+  <figcaption>로그인할 때 보이는 메인화면 입니다.</figcaption>
 </figure>
 
 <figure>
   <img data-action="zoom" src='{{ "/images/channel.png" | relative_url }}' alt='채널'>
-  <figcaption>채널 안의 에셋들</figcaption>
+  <figcaption>채널 안의 에셋</figcaption>
 </figure>
 
 
@@ -67,6 +66,9 @@ tags: imgibble dam collaboration
 하지만 이제는 관련 시장이 변화고 있다는 게 느껴집니다. 시계를 조금 예전으로 돌려보면 회사 내에서 사용하는 소프트웨어는 회사에서만 사용이 가능할 만큼 불편하고, UI/UX 등이 복잡한 경우가 많았습니다. 하지만 글로벌하게 많이 쓰이는 슬랙/트렐로 등의 협업툴, 회사에서 많이 쓰시는 구글 앱스를 써보면 이제 일반 소비자를 위해서 출시된 서비스만큼 사용이 편리하고, 인터페이스가 뛰어납니다. 이런 소프트웨어를 바탕으로 일을 하는 문화 자체가 변하고 있습니다. 국내도 예외가 아닙니다. 미팅을 해보면 이런 글로벌 서비스를 적어도 하나 정도 사용하는 회사들을 쉽게 찾을 수 있습니다. 이런 변화하는 흐름에 맞추어 관련 시장도 성장할 것이라고 생각합니다.[^4]
 
 이미지를 시작으로 영상 등 다양한 컨텐츠의 요청/제작/관리/협업/공유 과정의 특화된 커뮤니케이션 플랫폼이 되는 것이 목표입니다.
+
+위 [런칭알림](https://www.imgibble.com/?utm_source=Blog&utm_medium=Jun&utm_campaign=Post)과 별도 데모미팅 요청은 contact@imgibble.com으로 부탁드립니다.
+
 
 ---
 
