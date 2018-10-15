@@ -6,9 +6,12 @@ tags: imgibble dam collaboration
 ---
 저희가 이제 한 달/두 달 안에 런칭을 앞두고 있어 서비스에 대해 소개를 한번 드리려고 합니다.
 
-### 이미지블의 시작
+<figure>
+  <img data-action="zoom" src='{{ "/images/about_imgibble.png" | relative_url }}' alt='채널'>
+  <figcaption>이미지블 소개서의 첫번째장</figcaption>
+</figure>
 
-![이미지]({{ site.url }}/images/about_imgibble.png){: .center-image }
+### 이미지블의 시작
 
 저희 팀이 사업을 함께한 기간이 벌써 2년이 다 되어 갑니다. 애초에 일부 멤버는 회사를 다니고, 일부는 풀타임으로 근무하면서 애드테크 쪽 솔루션을 만들었습니다. 초기에는 매출도 조금 나고 솔루션의 미래도 밝아 보였는데 여러 가지 이유로 장기적으로는 어려운 분야라는 것을 직감했습니다.[^1]
 
