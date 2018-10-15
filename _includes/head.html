@@ -40,9 +40,10 @@
 
   <!-- You can use Open Graph tags to customize link previews.
      Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
-  <meta property="og:url"           content="https://hyungyunlim.github.io/" />
-  <meta property="og:type"          content="website" />
-  <meta property="og:title"         content="junlim's blog" />
-  <meta property="og:description"   content="junlim's posts and articles" />
-  <meta property="og:image"         content="https://hyungyunlim.github.io/images/IMGIBBLE_final.png" />
+  <meta property="fb:app_id" content="{{ site.facebook_app_id }}" />
+  <meta property="og:url"           content="{{ site.url }}/{{ page.url }}" />
+  <meta property="og:type"          content="article" />
+  <meta property="og:title"         content="{{ page.title }}" />
+  <meta property="og:description"   content="{{ page.content | markdownify | strip_html | strip_newlines | truncate: 300 }}" />
+  <meta property="og:image"         content="{{ site.url }}/{{ page.image }}" />
 </head>
