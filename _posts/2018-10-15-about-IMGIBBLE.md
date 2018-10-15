@@ -4,12 +4,12 @@ title:  "이미지블에 대해(About IMGIBBLE)"
 author: "junlim"
 tags: imgibble dam collaboration
 ---
-
-![이미지블]({{ site.url }}/images/about_imgibble.png){: .center-image }
-
 저희가 이제 한 달/두 달 안에 런칭을 앞두고 있어 서비스에 대해 소개를 한번 드리려고 합니다.
 
+
 ### 이미지블의 시작
+
+![이미지]({{ site.url }}/images/about_imgibble.png){: .center-image }
 
 저희 팀이 사업을 함께한 기간이 벌써 2년이 다 되어 갑니다. 애초에 일부 멤버는 회사를 다니고, 일부는 풀타임으로 근무하면서 애드테크 쪽 솔루션을 만들었습니다. 초기에는 매출도 조금 나고 솔루션의 미래도 밝아 보였는데 여러 가지 이유로 장기적으로는 어려운 분야라는 것을 직감했습니다.[^1]
 
@@ -21,6 +21,8 @@ tags: imgibble dam collaboration
 
 무엇보다 위와 같은 문제가 에이전시뿐만이 아니라 많은 조직과 팀에서 존재하는 문제라는 것도 여러 실무자분들과 얘기를 하면서 깨닫게 됩니다.
 
+
+
 ### 솔루션의 구체화
 해결하고자 하는 문제가 어느 정도 명확해졌고, 어떻게 이 문제를 효과적으로 구체화를 할지에 대한 과제가 남았죠. 결국 저희가 해결해야 하는 문제는 크게 보면 두 가지로 요약됩니다.
 
@@ -31,18 +33,28 @@ tags: imgibble dam collaboration
 
 역시 답은 먼 곳에 있지 않았습니다. 내부적으로 슬랙을 통해서 커뮤니케이션을 하고 있는데 슬랙은 각기 다른 채널이 하나의 워크스페이스 형태로 구성되어 있습니다. 어떤 팀들은 행정/마케팅 등의 큰 부서들을 중심으로 채널을 나누기도 하고, 어떤 팀들은 블로그/페이스북 등으로 보다 작은 단위의 채널로 관리를 하기도 합니다. 이렇게 유기적으로 채널을 나누어 커뮤니케이션할 수 있는 부분이 협업에 적합해서인지 슬랙은 관련 분야의 유니콘 기업이 되었습니다. 그런 슬랙에 영감을 받았고 채널별로 에셋들을 관리하는 방향으로 정했습니다.[^3]
 
-![슬랙채널]({{ site.url }}/images/slack_channel.png){: .center-image }
+<figure>
+  <img data-action="zoom" src='{{ "/images/slack_channel.png" | relative_url }}' alt='채널'>
+  <figcaption>슬랙 채널 화면 예시</figcaption>
+</figure>
 
+<figure>
+  <img data-action="zoom" src='{{ "/images/main_dashboard.png" | relative_url }}' alt='메인화면'>
+  <figcaption>로그인할 때 보이는 메인화면</figcaption>
+</figure>
 
-![메인화면]({{ site.url }}/images/main_dashboard.png){: .center-image }
+<figure>
+  <img data-action="zoom" src='{{ "/images/channel.png" | relative_url }}' alt='채널'>
+  <figcaption>채널 안의 에셋들</figcaption>
+</figure>
 
-
-![채널]({{ site.url }}/images/channel.png){: .center-image }
 
 ### 데모(MVP)와 관련 시장
 요즘은 최소한의 기능이 구현된 데모버전(MVP, Minimum Viable Product)과 출시할 버전의 설계 화면들을 가지고 잠재 고객사분들을 만나고 있습니다. 초기 고객은 기업 고객이고, 소위 SaaS(Software-as-a-Service) 분야의 서비스라서 회사들 위주로 미팅을 진행 중입니다. 고객사 미팅을 통해 간과했던 부분에 대한 얘기도 듣고 기존에 저희가 가지고 있던 가설들에 대한 검증도 하고 있습니다.
 
 이 과정에서 역시 가장 어려운 부분은 특정 회사 내 의 모든 분들을 만나는 것이 아니라서 일단 말씀 주시는 의견이 한 사람의 의견이 아닌 해당 회사의 많은 분들이 겪고 있는 부분인지 확인하는 부분, 피드백이 정말 가려운 곳을 긁어주는 니즈인지 그냥 있었으면 좋겠다고 생각하시는 부분인지 구분하는 것입니다.
+
+
 
 ### 런칭 및 목표
 
