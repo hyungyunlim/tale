@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 ### 생계
-현재 이미지블(IMGIBBLE)이라는 스타트업의 대표를 맡고 있습니다. [이미지블](https://www.imgibble.com/?utm_source=Blog&utm_medium=Jun&utm_campaign=Post)은 이미지(Visual Creatives)의 제작(Production)/관리(Asset Management)/협업(Collaboration)/공유(Share) 과정의 특화된 커뮤니케이션 플랫폼입니다. 장기적으로는 영상을 비롯한 각종 디지털 컨텐츠의 제작에 관
+현재 이미지블(IMGIBBLE)이라는 스타트업의 대표를 맡고 있습니다. [이미지블](https://www.imgibble.com/?utm_source=Blog&utm_medium=Jun&utm_campaign=Post)은 이미지(Visual Creatives)의 제작(Production)/관리(Asset Management)/협업(Collaboration)/공유(Share) 과정에 특화된 커뮤니케이션 플랫폼입니다.
 
 ~~현재 테크쪽 관련 계통에서 일하고 있습니다. 테크 계통에서 개발을 제외한 여러 잡무를 하며 생계를 이어가고 있습니다. 개발자는 아니지만 관심이 많아서 라스베리파이, 루비 등을 따로 배우기도 하고, 주변에 개발자도 많은 편입니다. 디자이너도 아니지만, 스케치와 제플린 같은 프로그램을 꽤 다룰 줄도 압니다.~~
 
