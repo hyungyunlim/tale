@@ -76,11 +76,14 @@ td {
 
 figure {
   align: center;
-  text-align: center;
-  font-style: italic;
-  font-size: 15px;
   margin-top: 40px;
   margin-bottom: 60px;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+  font-size: 11px;
 }
 
 .fb-like {
