@@ -16,7 +16,7 @@ sass:
 markdown:       kramdown
 
 # About
-author:
+author:         Jun
   name:         Hyungyun Jun Lim
   url:          https://hyungyunlim.github.io
   email:        hyungyun.lim@gmail.com
