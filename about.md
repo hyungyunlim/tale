@@ -27,9 +27,3 @@ permalink: /about/
 - 한때는 테크쪽 글도 열심히 썼고, 몇몇 곳에서 연락이 오고 했었는데 누구나 글빨이 좀 잘 받는 시기가 있는것 같습니다. 특히 혈혈단신 유학을 가서 프랑스에서 가난하고, 외로울때 글이 제일 잘써졌던 것 같아요.
 - 사실 지난  2-3년간은 블로깅을 따로 하고 싶은 생각도 없었고, 하지도 않았습니다. 글이라는게 어느분야를 깊이 파지 않으면 뭔가 나오지 않는데 사실 아무것도 모른다는 생각이 많이 들었어요.
 - 너무 가볍지도, 무겁지도 않은 수준의 이야기를 부담없이 써내려갈 생각입니다. 너무 의식의 흐름에 따라 쓰게 될게 걱정이긴 한데 꾸준히 하는게 중요하겠죠.
-
-<br>
-<div align="center">
-<div class="fb-follow" data-href="https://www.facebook.com/hyungyun.lim" data-layout="button_count" data-size="small" data-show-faces="true"></div>
-</div>
-<br>
