@@ -3,7 +3,7 @@ permalink:      /:year-:month-:day/:title
 
 # Setup
 title:          junlim's blog
-paginate:       5
+paginate:       15
 baseurl:        ""
 url:            "https://hyungyunlim.github.io"
 
@@ -16,8 +16,8 @@ sass:
 markdown:       kramdown
 
 # About
-author:         Jun
-  name:         Hyungyun Jun Lim
+author:
+  name:         Jun
   url:          https://hyungyunlim.github.io
   email:        hyungyun.lim@gmail.com
 
@@ -27,7 +27,7 @@ github:
   repo:         https://github.com/hyungyunlim/hyungyunlim.github.io
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
