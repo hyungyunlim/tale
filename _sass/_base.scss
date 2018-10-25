@@ -59,8 +59,10 @@ blockquote {
 }
 
 img {
+  border: 0.1px solid;
+  border-color: #d3d3d3;
   display: block;
-  margin: 0 0 1rem;
+  // margin: 0 0 1rem;
   max-width: 95%;
 }
 
@@ -80,9 +82,10 @@ figure {
   margin-bottom: 60px;
 }
 
-figcaption {
+figure figcaption {
   text-align: center;
   font-style: italic;
+  margin-top: 10px;
   font-size: 11px;
 }
 
