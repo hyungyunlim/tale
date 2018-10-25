@@ -24,7 +24,7 @@ tags: wiki knowledgebase documentation archive
   <img data-action="zoom" src='{{ "/images/notion-front-page-hero.png" | relative_url }}' alt='notion'>
   <figcaption>노션 웹사이트 메인 이미지</figcaption>
 </figure>
-일단 제일 먼저 눈에 들어오는 것은 “All-in-One Workspace”이라는 슬로건이다. 그 아래로는 일러스트로 표시된 각 기능을 상징하는 캐릭터들이 있다. 여담이지만 이런 일러스트레이트가 들어간 웹사이트가 자주 보이는데 최근에 디자인을 담당하는 회사 동료를 통해 일러스트풍의 웹사이트가 글로벌하게 [트렌드](https://webflow.com/blog/illustration-trends-in-web-design-for-2018)이라는 것을 알게 되었다.  어쨌든 각각의 캐릭터들은 노션의 핵심 기능을 상징한다.
+일단 제일 먼저 눈에 들어오는 것은 “All-in-One Workspace”이라는 슬로건이다. 그 아래로는 일러스트로 표시된 각 기능을 상징하는 캐릭터들이 있다. 여담이지만 이런 일러스트레이트가 들어간 웹사이트가 자주 보이는데 최근에 디자인을 담당하는 회사 동료를 통해 일러스트풍의 웹사이트가 [글로벌 트렌드](https://webflow.com/blog/illustration-trends-in-web-design-for-2018)라는 것을 알게 되었다.  어쨌든 각각의 캐릭터들은 노션의 핵심 기능을 상징한다.
 
 - Notes, Docs: 노트, 문서 정리
 - Knowledge Base: 위키, 정보 포털
