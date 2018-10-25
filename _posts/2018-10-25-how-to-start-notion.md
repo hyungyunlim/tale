@@ -81,7 +81,7 @@ tags: wiki knowledgebase documentation archive
   <img data-action="zoom" src='{{ "/images/notion_crm.png" | relative_url }}' alt='notion'>
   <figcaption>노션에서 사용가능한 스프레드시트</figcaption>
 </figure>
-해당 문서는 잠재적인 고객사들과 미팅내용을 정리한 문서다. 미팅에 관한 회사명, 카테고리 등의 개괄적인 내용은 스프레드시트 형태로 정리된 문서로 확인할 수 있고, 이렇게 입력된 한줄한줄은 하나의 데이터베이스 아래와 같이 팝업으로 열어서 미팅 내용을 정리하는 방식으로 기록하고 있다. 설명하면 복잡해 보이는데 막상 사용해보면 쉽게 익숙해진다.
+해당 문서는 잠재적인 고객사들과 미팅내용을 정리한 문서다. 미팅에 관한 회사명, 카테고리 등의 개괄적인 내용은 스프레드시트 형태로 정리된 문서로 확인할 수 있고, 이렇게 입력된 한줄한줄은 하나의 데이터베이스로 아래와 같이 팝업으로 열어서 미팅 내용을 정리하는 방식으로 기록하고 있다. 설명하면 복잡해 보이는데 막상 사용해보면 쉽게 익숙해진다.
 <figure>
   <img data-action="zoom" src='{{ "/images/notion_crm_popup.png" | relative_url }}' alt='notion'>
   <figcaption>스프레드시트 형식의 데이터베이스 팝업</figcaption>
