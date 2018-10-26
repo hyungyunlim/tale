@@ -34,7 +34,7 @@ tags: wiki knowledgebase documentation archive
 좀더 내리다 보면 아래와 같은 이미지가 나온다. 한마디로 노션을 사용하면 여기에 명시된 서비스들을 대체할 수 있다는 것이다. 구글독(Google Doc), 지라(JIRA), 트렐로(Trello), 드롭박스 페이퍼(Dropbox Paper), 컨플루언스(Confluence) 등 문서 작성/관리 및 프로젝트 관리 분야의 내노라하는 솔루션들이다. 솔루션들의 가치가 각각 수천억에서 수조원에 이르기때문에 이 모든 툴을 대체한다고 명시하는 것 자체가 상당히 대담한 설명이라고 할 수 있다.
 <figure>
   <img data-action="zoom" src='{{ "/images/notion_replace_tools.png" | relative_url }}' alt='notion'>
-  <figcaption>노션이 대체 할 수 있는 툴</figcaption>
+  <figcaption>노션을 통해 대체할 수 있다고 설명하는 일러스트</figcaption>
 </figure>
 그래서 더욱 호기심이 생겼던 것 같다. 회사의 [About 페이지](https://www.notion.so/about?r=41fcf6a6514740f29ef1b771f3f63367)를 참고하면 설계 의도를 알 수 있다. 아직 국내에서는 다소 생소할 수 있지만 이미 글로벌하게는 클라우드기반의 파일관리, 협업 커뮤니케이션 및 메시징 서비스의 활용, 업무의 생산성을 높히기 위한 프로젝트 관리 관련 서비스들이 급속도로 확산되고 있다. 이 때문에 트렐로/슬랙과 같은 솔루션이 적게는 수천억 많게는 수조원의 가치를 인정받고 있다. ~~그래서 우리도 관련 분야의 서비스를 만들고 있다.~~ 하지만 좋은 점만 있는 것은 아니다. 개인별/팀별 사용하는 서비스가 달라지다보니 구성원들의 피로도도 올라가고, 자료를 찾기도 쉽지 않다. 노션은 이런점에 착안해서 여러 툴들의 기능들을 마치 레고 블록처럼 구성해서 편집할 수 있도록 했다.
 <figure>
@@ -81,7 +81,7 @@ tags: wiki knowledgebase documentation archive
   <img data-action="zoom" src='{{ "/images/notion_crm.png" | relative_url }}' alt='notion'>
   <figcaption>노션에서 사용가능한 스프레드시트</figcaption>
 </figure>
-해당 문서는 잠재적인 고객사들과 미팅내용을 정리한 문서다. 미팅에 관한 회사명, 카테고리 등의 개괄적인 내용은 스프레드시트 형태로 정리된 문서로 확인할 수 있고, 이렇게 입력된 한줄한줄은 하나의 데이터베이스로 아래와 같이 팝업으로 열어서 미팅 내용을 정리하는 방식으로 기록하고 있다. 설명하면 복잡해 보이는데 막상 사용해보면 쉽게 익숙해진다.
+해당 문서는 잠재적인 고객사들과 미팅내용을 정리한 문서다. 미팅에 관한 회사명, 카테고리 등의 개괄적인 내용은 스프레드시트 형태로 정리된 문서로 확인할 수 있고, 이렇게 입력된 한줄한줄은 하나의 데이터베이스로 팝업으로 열어서 미팅 내용을 정리하는 방식으로 기록하고 있다. 설명하면 복잡해 보이는데 막상 사용해보면 쉽게 익숙해진다.
 <figure>
   <img data-action="zoom" src='{{ "/images/notion_crm_popup.png" | relative_url }}' alt='notion'>
   <figcaption>스프레드시트 형식의 데이터베이스 팝업</figcaption>
