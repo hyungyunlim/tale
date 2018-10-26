@@ -39,8 +39,14 @@ tags: wiki knowledgebase documentation archive
 그래서 더욱 호기심이 생겼던 것 같다. 회사의 [About 페이지](https://www.notion.so/about?r=41fcf6a6514740f29ef1b771f3f63367)를 참고하면 설계 의도를 알 수 있다. 아직 국내에서는 다소 생소할 수 있지만 이미 글로벌하게는 클라우드기반의 파일관리, 협업 커뮤니케이션 및 메시징 서비스의 활용, 업무의 생산성을 높히기 위한 프로젝트 관리 관련 서비스들이 급속도로 확산되고 있다. 이 때문에 트렐로/슬랙과 같은 솔루션이 적게는 수천억 많게는 수조원의 가치를 인정받고 있다. ~~그래서 우리도 관련 분야의 서비스를 만들고 있다.~~ 하지만 좋은 점만 있는 것은 아니다. 개인별/팀별 사용하는 서비스가 달라지다보니 구성원들의 피로도도 올라가고, 자료를 찾기도 쉽지 않다. 노션은 이런점에 착안해서 여러 툴들의 기능들을 마치 레고 블록처럼 구성해서 편집할 수 있도록 했다.
 <figure>
   <img data-action="zoom" src='{{ "/images/notion_lego_blocks.png" | relative_url }}' alt='notion'>
-  <figcaption>레고 블록처럼 여러 요소들을 합칠 수 있는 노션</figcaption>
+  <figcaption>노션의 레고 블록에 대한 콘셉</figcaption>
 </figure>
+
+<figure>
+  <img data-action="zoom" src='{{ "/images/notion_lego_blocks.gif" | relative_url }}' alt='notion'>
+  <figcaption>레고 블록처럼 화면을 에디팅할 수 있는 노션</figcaption>
+</figure>
+
 나중에 알게된 사실이지만 노션의 수장을 맡고 있는 이반 자오(Ivan Zhao)는 전 직장이 [잉클링(Inkling)](https://www.inkling.com)이다. 검색을 하다가 처음 알게되었는데 웹사이트를 보면 문서 작성 및 협업을 도와 주는 도구다. 물론 노션과는 많이 다르지만 아마 이곳에서의 경험이 노션에 크게 영향을 줬을 것 같다.
 
 ### 노션과 이미지블
