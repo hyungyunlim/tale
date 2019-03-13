@@ -4,7 +4,7 @@ title:  "이미지블에 대해(About IMGIBBLE)"
 author: "junlim"
 tags: imgibble dam collaboration
 ---
-저희가 이제 한 달/두 달 안에 런칭을 앞두고 있어 서비스에 대해 소개를 한번 드리려고 합니다.
+저희 팀이 만들고 있는 이미지블 서비스에 대해서 소개드리겠습니다.
 
 <figure>
   <img data-action="zoom" src='{{ "/images/about_imgibble.png" | relative_url }}' alt='채널'>
@@ -31,7 +31,7 @@ tags: imgibble dam collaboration
 - 커뮤니케이션 및 협업: 에셋의 특성에 맞게 효과적으로 커뮤니케이션할 수 있다. 예를 들어, 이미지라면 이미지 위에 원하는 피드백 영역에 효과적으로 피드백을 남길 수 있어야 합니다.
 - 에셋 관리 및 공유: 이미지 등의 에셋을 효과적으로 관리 할 수 있어야 합니다. 예를 들어, 특정 이미지들을 하나의 프로젝트를 만들어 관리할 수 있고, 파일시스템처럼 폴더 형식으로 구현할 수도 있습니다.
 
-커뮤니케이션  및 협업 부분은 이미지를 기반으로 상호 피드백을 주고받는다는 부분이 직관적이고 명확해서 기능이 상대적으로 일찍 구현됩니다. 하지만 에셋 관리 및 공유 부분은 쉽게 결론이 나지 않았습니다. 초기에는 제플린 등의 프로토타입 툴처럼 에셋을 프로젝트 형태로 관리하는 방향으로 기획 및 개발을 진행했습니다. 프로토타입 툴은 한가지 프로젝트에서 많은 에셋들을 만들고, 보통 개발자/기획자/디자이너 등의 특정 그룹 내에서만 작업을 하는 경우가 많습니다. 하지만 에이전시 및 일반 회사들의 경우는 오랫동안 한가지 프로젝트를 진행하는 경우도 있지만 특정 캠페인/광고주의 에셋이 하루 만에 제작, 마무리되는 일들이 빈번합니다. 내부적으로 에셋을 공유하는 경우가 많지만 외부적으로 공유해야하는 경우도 많아 프로토타입 툴의 방식은 적합하지 않았습니다. 이후 방향성을 찾기 위해 내부적으로 고민을 많이 하고, 잠재 고객사를 만나 이야기도 많이 들었습니다.
+커뮤니케이션 및 협업 부분은 이미지를 기반으로 상호 피드백을 주고받는다는 부분이 직관적이고 명확해서 기능이 상대적으로 일찍 구현됩니다. 하지만 에셋 관리 및 공유 부분은 쉽게 결론이 나지 않았습니다. 초기에는 제플린 등의 프로토타입 툴처럼 에셋을 프로젝트 형태로 관리하는 방향으로 기획 및 개발을 진행했습니다. 프로토타입 툴은 한가지 프로젝트에서 많은 에셋들을 만들고, 보통 개발자/기획자/디자이너 등의 특정 그룹 내에서만 작업을 하는 경우가 많습니다. 하지만 에이전시 및 일반 회사들의 경우는 오랫동안 한가지 프로젝트를 진행하는 경우도 있지만 특정 캠페인/광고주의 에셋이 하루 만에 제작, 마무리되는 일들이 빈번합니다. 내부적으로 에셋을 공유하는 경우가 많지만 외부적으로 공유해야하는 경우도 많아 프로토타입 툴의 방식은 적합하지 않았습니다. 이후 방향성을 찾기 위해 내부적으로 고민을 많이 하고, 잠재 고객사를 만나 이야기도 많이 들었습니다.
 
 역시 답은 먼 곳에 있지 않았습니다. 내부적으로 슬랙을 통해서 커뮤니케이션을 하고 있는데 슬랙은 각기 다른 채널이 하나의 워크스페이스 형태로 구성되어 있습니다. 어떤 팀들은 행정/마케팅 등의 큰 부서들을 중심으로 채널을 나누기도 하고, 어떤 팀들은 블로그/페이스북 등으로 보다 작은 단위의 채널로 관리를 하기도 합니다. 이렇게 유기적으로 채널을 나누어 커뮤니케이션할 수 있는 부분이 협업에 적합해서인지 슬랙은 관련 분야의 유니콘 기업이 되었습니다. 그런 슬랙에 영감을 받았고 채널별로 에셋들을 관리하는 방향으로 정했습니다.[^3]
 
@@ -60,17 +60,17 @@ tags: imgibble dam collaboration
 
 ### 런칭 및 목표
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/CdQly0hjXb8' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/cnLFhu4qzGc' frameborder='0' allowfullscreen></iframe></div>
 ---
-초기 출시 버전에는 저희가 넣으려고 했던 모든 기능을 포함해서 출시하기에는 시간이 빠듯할 것 같습니다. 핵심적인 기능들 위주로 먼저 출시하고, 이후 우선순위에 따라서 기능을 추가해 나가려고 생각 중입니다. 저희 솔루션에 대해 궁금한 부분이 있으시거나 런칭 알림 신청하시려면 [이미지블 홈페이지](https://www.imgibble.com/?utm_source=Blog&utm_medium=Jun&utm_campaign=Post)에서 신청 부탁드려요.
+초기 출시 버전에는 저희가 넣으려고 했던 모든 기능을 포함해서 출시하기에는 시간이 빠듯할 것 같습니다. 핵심적인 기능들 위주로 먼저 출시하고, 이후 우선순위에 따라서 기능을 추가해 나가려고 생각 중입니다. 현재 [이미지블 홈페이지](https://www.imgibble.com/?utm_source=Blog&utm_medium=Jun&utm_campaign=Post_updated)에서 사용가능합니다.
 
 사업 기간이 2년이 다 되어 가다 보니 애초에 애드테크로 올렸던 매출도 바닥나고, 전원이 풀타임으로 일을 시작하면서 투자를 받기 위해 몇몇 투자사와 미팅을 진행했습니다. 좋게 봐주시는 투자사 분들도 계셨지만 일부 투자사분들은 한국이 소위 기업 간 소프트웨어(B2B Saas) 분야의 무덤이라는 얘기가 반복적으로 나왔습니다. 그만큼 국내에서 회사들에 소프트웨어를 구독 방식으로 판매하는 게 어렵다는 의미였습니다.
 
 하지만 이제는 관련 시장이 변화고 있다는 게 느껴집니다. 시계를 조금 예전으로 돌려보면 회사 내에서 사용하는 소프트웨어는 회사에서만 제한적으로 사용이 가능할정도로 불편하고, UI/UX 등이 복잡한 경우가 많았습니다. 하지만 글로벌하게 많이 쓰이는 슬랙, 트렐로, 구글 앱스를 보면 이제 일반 소비자를 위해서 출시된 서비스만큼 사용이 편리하고, 인터페이스가 뛰어납니다. 이런 소프트웨어를 바탕으로 일을 하는 문화 자체가 변하고 있습니다. 국내도 예외가 아닙니다. 미팅을 해보면 이런 글로벌 서비스를 적어도 하나 이상 사용하는 회사들을 쉽게 찾을 수 있습니다. 이런 변화하는 흐름에 맞추어 관련 시장도 성장할 것이라고 생각합니다.[^4]
 
-이미지를 시작으로 영상 등 다양한 컨텐츠의 요청(Requirement)/제작(Production)/관리(Asset Management)/협업(Collaboration)/공유(Share) 과정의 특화된 커뮤니케이션 플랫폼이 되는 것이 목표입니다.
+이미지 및 동영상을 시작으로 영상 등 다양한 컨텐츠의 요청(Requirement)/제작(Production)/관리(Asset Management)/협업(Collaboration)/공유(Share) 과정의 특화된 커뮤니케이션 플랫폼이 되는 것이 목표입니다.
 
-위 [런칭알림](https://www.imgibble.com/?utm_source=Blog&utm_medium=Jun&utm_campaign=Post)과 별도 데모미팅 요청은 contact@imgibble.com으로 부탁드립니다.
+위 [웹사이트](https://www.imgibble.com/?utm_source=Blog&utm_medium=Naver&utm_campaign=Post)과 별도 데모미팅 요청은 hello@imgibble.com으로 부탁드립니다.
 
 
 ---
